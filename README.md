@@ -1,2 +1,2 @@
-# countdown_timer
-Countdown timer
+# Countdown Timer
+Countdown timer using HTML, CSS and JS
